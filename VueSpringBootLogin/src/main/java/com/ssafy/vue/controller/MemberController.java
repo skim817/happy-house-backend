@@ -20,7 +20,8 @@ import com.ssafy.vue.model.service.MemberService;
 @RestController
 @RequestMapping("/user")
 public class MemberController {
-
+/////////////
+	
 	@Autowired
 	private JwtService jwtService;
 
